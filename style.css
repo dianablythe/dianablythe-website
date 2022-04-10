@@ -1,3 +1,45 @@
 body {
-    background: blue;
+    background: lightyellow;
 }
+
+h1 {
+    font-size: 64px;
+    color: darkturquoise;
+    text-align: center;
+}
+
+hi image {
+    left-margin: auto;
+    right-margin: auto;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    font-size: 24px;
+    color: #000;
+}
+
+h2 {
+    text-align: center;
+    color: darkturquoise;
+    font-size: 48px;
+}
+
+h2 p {
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+}
+
+footer a {
+    font-size: 24px;
+    padding-left: 200px;
+}
+
+footer {
+    font-size: 24px;
+    padding-left: 150px;
+    background: turquoise
+}
+
