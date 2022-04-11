@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 64px;
+    font-size: 54px;
     color: darkturquoise;
     text-align: center;
 }
@@ -16,14 +16,14 @@ hi image {
 ul {
     text-align: center;
     list-style: inside;
-    font-size: 24px;
+    font-size: 20px;
     color: #000;
 }
 
 h2 {
     text-align: center;
     color: darkturquoise;
-    font-size: 48px;
+    font-size: 40px;
 }
 
 h2 p {
