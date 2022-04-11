@@ -6,6 +6,7 @@ h1 {
     font-size: 54px;
     color: darkturquoise;
     text-align: center;
+    font-weight: bold;
 }
 
 hi image {
@@ -16,6 +17,7 @@ hi image {
 ul {
     text-align: center;
     list-style: inside;
+    list-style-type: square;
     font-size: 20px;
     color: #000;
 }
@@ -43,3 +45,5 @@ footer {
     background: turquoise
 }
 
+* {
+    font-family:cursive
