@@ -14,8 +14,8 @@ h1 {
 }
 
 hi image {
-    left-margin: auto;
-    right-margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul {
@@ -58,5 +58,5 @@ footer {
 }
 
 * {
-    font-family:
+    font-family: auto;
 }
