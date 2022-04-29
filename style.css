@@ -18,8 +18,12 @@ hi image {
     margin-right: auto;
 }
 
-ul {
+.container {
+    padding: 
     text-align: center;
+}
+
+ul {
     list-style: inside;
     list-style-type: square;
     font-size: 24px;
