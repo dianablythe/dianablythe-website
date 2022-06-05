@@ -24,11 +24,17 @@ hi image {
 }
 
 ul {
-    list-style: inside;
-    list-style-type: square;
+    margin: 0 auto;
+    text-align: left;
+    width: 400px;
     font-size: 24px;
-    color: #000;
-}
+    padding: 10px;
+    padding-bottom: 20px;
+  }
+
+  .container {
+      color: black;
+  }
 
 h2 {
     text-align: center;
